@@ -1,5 +1,5 @@
 <template>
-    <div>Index</div>
+    <div>This is INDEX page.</div>
     <Link href="/show">Show Page</Link>
     <div>The message is: {{ message }}</div>
 </template>
